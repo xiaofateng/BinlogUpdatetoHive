@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jruby.jcodings:jcodings:1.0.8:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jruby.jcodings/jcodings/jars/jcodings-1.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jruby.jcodings/jcodings/srcs/jcodings-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

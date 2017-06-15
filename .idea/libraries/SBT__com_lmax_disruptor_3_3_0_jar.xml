@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.lmax:disruptor:3.3.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lmax/disruptor/jars/disruptor-3.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.lmax/disruptor/srcs/disruptor-3.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

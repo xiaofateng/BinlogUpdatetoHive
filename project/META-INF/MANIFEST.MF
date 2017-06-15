@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: jline.jar persist-0.13.8.jar cache-0.13.8.jar command-0.13
+ .8.jar relation-0.13.8.jar run-0.13.8.jar sbt-0.13.8.jar scala-librar
+ y.jar process-0.13.8.jar jawn-parser_2.10-0.6.0.jar incremental-compi
+ ler-0.13.8.jar sbinary_2.10-0.4.2.jar compile-0.13.8.jar logic-0.13.8
+ .jar quasiquotes_2.10-2.0.1.jar apply-macro-0.13.8.jar json4s-support
+ _2.10-0.6.0.jar test-agent-0.13.8.jar main-settings-0.13.8.jar compil
+ er-ivy-integration-0.13.8.jar api-0.13.8.jar scala-reflect-2.10.4.jar
+  json4s-ast_2.10-3.2.10.jar tracking-0.13.8.jar ivy-0.13.8.jar scala-
+ pickling_2.10-0.10.0.jar io-0.13.8.jar ivy-2.3.0-sbt-fccfbd44c9f64523
+ b61398a0155784dcbaeae28f.jar serialization_2.10-0.1.1.jar scala-refle
+ ct.jar task-system-0.13.8.jar jsch-0.1.46.jar cross-0.13.8.jar interf
+ ace-0.13.8.jar test-interface-1.0.jar compiler-integration-0.13.8.jar
+  jansi.jar json4s-core_2.10-3.2.10.jar completion-0.13.8.jar logging-
+ 0.13.8.jar classfile-0.13.8.jar launcher-interface-0.13.8.jar paranam
+ er-2.6.jar control-0.13.8.jar actions-0.13.8.jar tasks-0.13.8.jar sca
+ la-compiler.jar main-0.13.8.jar jline-2.11.jar classpath-0.13.8.jar c
+ ollections-0.13.8.jar testing-0.13.8.jar
+Main-Class: com.streaming.BinLogUpdateToHiveLoan
+

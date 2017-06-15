@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.alibaba.otter:canal.common:1.0.14:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.alibaba.otter/canal.common/jars/canal.common-1.0.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.alibaba.otter/canal.common/srcs/canal.common-1.0.14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

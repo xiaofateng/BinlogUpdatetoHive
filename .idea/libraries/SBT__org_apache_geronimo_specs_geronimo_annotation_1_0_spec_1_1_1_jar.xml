@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.geronimo.specs:geronimo-annotation_1.0_spec:1.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-annotation_1.0_spec/jars/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-annotation_1.0_spec/srcs/geronimo-annotation_1.0_spec-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

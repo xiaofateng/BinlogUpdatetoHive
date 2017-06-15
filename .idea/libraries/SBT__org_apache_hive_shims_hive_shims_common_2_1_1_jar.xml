@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.hive.shims:hive-shims-common:2.1.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive.shims/hive-shims-common/jars/hive-shims-common-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.hive.shims/hive-shims-common/srcs/hive-shims-common-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

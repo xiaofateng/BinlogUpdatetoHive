@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="root-build:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/root_build_jar</output-path>
+    <root id="root">
+      <element id="archive" name="root-build.jar">
+        <element id="module-output" name="root-build" />
+      </element>
+      <element id="library" level="module" name="SBT: sbt-and-plugins" module-name="root-build" />
+    </root>
+  </artifact>
+</component>

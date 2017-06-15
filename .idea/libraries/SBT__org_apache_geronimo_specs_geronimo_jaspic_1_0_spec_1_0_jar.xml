@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.geronimo.specs:geronimo-jaspic_1.0_spec:1.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-jaspic_1.0_spec/bundles/geronimo-jaspic_1.0_spec-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.geronimo.specs/geronimo-jaspic_1.0_spec/srcs/geronimo-jaspic_1.0_spec-1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.apache.twill:twill-discovery-api:0.6.0-incubating:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.twill/twill-discovery-api/jars/twill-discovery-api-0.6.0-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.apache.twill/twill-discovery-api/srcs/twill-discovery-api-0.6.0-incubating-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

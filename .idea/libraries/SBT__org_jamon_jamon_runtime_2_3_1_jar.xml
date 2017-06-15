@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: org.jamon:jamon-runtime:2.3.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jamon/jamon-runtime/jars/jamon-runtime-2.3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.jamon/jamon-runtime/srcs/jamon-runtime-2.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

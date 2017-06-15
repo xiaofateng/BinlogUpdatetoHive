@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: it.unimi.dsi:fastutil:6.5.6:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/it.unimi.dsi/fastutil/jars/fastutil-6.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/it.unimi.dsi/fastutil/srcs/fastutil-6.5.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
