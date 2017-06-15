@@ -1,6 +1,6 @@
 # BinlogUpdatetoHive
 mysql近实时增量导数据到Hive
-##背景
+背景
 -------
 目前，我公司大数据团队，使用的数据仓库是Hive。
 客户端开发团队，使用的数据库是Mysql，客户端上的各种数据都存储在了Mysql中。
