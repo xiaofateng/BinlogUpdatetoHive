@@ -45,8 +45,7 @@ Hive中没有主键的概念，Hive使用事务Id+批次Id来唯一标识一条�
 
 整体架构
 -----
- ![image](https://github.com/xiaofateng/BinlogUpdatetoHive/tree/master/images/mysql到hive增量导数据架构图.png)
-
+ ![image](https://github.com/xiaofateng/BinlogUpdatetoHive/blob/master/images/mysql%E5%88%B0hive%E5%A2%9E%E9%87%8F%E5%AF%BC%E6%95%B0%E6%8D%AE%E6%9E%B6%E6%9E%84%E5%9B%BE.png)
 阿里的canal开源工具
 开源工具介绍：https://github.com/alibaba/canal
 
